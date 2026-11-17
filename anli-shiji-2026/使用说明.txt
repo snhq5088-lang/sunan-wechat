@@ -1,0 +1,24 @@
+安理食集观察样本 · 可编辑长图 PSD
+
+请用 Adobe Photoshop 打开：
+
+    psd/长图-食堂升级不只是换个装修.psd
+
+画布为 1080×9766 像素，8 位 RGB，72 PPI。版式、文案、配色与已定稿的 v5 长图一致，不要当成一张拍扁的 JPG。同目录也有压缩包 psd/长图-食堂升级不只是换个装修-psd.zip，方便下载。
+
+使用前请先安装字体，否则文字图层会显示不准：
+
+  1. 马善政楷书（Ma Shan Zheng / MaShanZheng-Regular）
+     见本目录 fonts/MaShanZheng-Regular.ttf
+  2. 霞鹜文楷 Regular 与 Medium（LXGWWenKai-Regular、LXGWWenKai-Medium）
+     体积较大，未重复打包。请使用此前「小雪」推文已提供的霞鹜文楷，
+     或从 https://github.com/lxgw/LxgwWenKai/releases 下载 Regular + Medium。
+     说明见 fonts/字体说明.txt。
+  3. Playfair Display Regular（PlayfairDisplay-Regular）
+     见本目录 fonts/PlayfairDisplay-Regular.ttf
+
+图层已按栏目分组：封面、引言、食廊配图、就餐场景、供给方式、便利与公益、结尾、页脚、背景。
+标题、正文、引文、章节标题、标签、说明、收束句和页脚都是可编辑的文字图层，请直接改字，不要栅格化。
+照片、宝丽来、便利贴纸底、胶带、印章、叶片、回形针、色带、波浪过渡和阴影在对应的像素图层或分组里，可单独移动或隐藏。
+
+本目录中的「长图-食堂升级不只是换个装修.jpg」是 v5 定稿原图，供对照。文案见 文案.md。

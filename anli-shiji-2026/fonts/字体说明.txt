@@ -1,0 +1,23 @@
+本长图使用的字体（编辑 PSD 前请安装）：
+
+1. 马善政楷书 / Ma Shan Zheng
+   文件：MaShanZheng-Regular.ttf
+   用途：主标题「食堂升级」「不只是换个装修」、章节号、收束句、一处手写便利贴
+   许可：SIL Open Font License（Google Fonts）
+   已附在本文件夹。
+
+2. 霞鹜文楷 Regular + Medium
+   文件名：LXGWWenKai-Regular.ttf、LXGWWenKai-Medium.ttf
+   PostScript 名：LXGWWenKai-Regular、LXGWWenKai-Medium
+   用途：正文、小节标题、标签、说明、页脚
+   许可：SIL Open Font License，见 OFL-霞鹜文楷.txt
+   字库体积较大（各约 24MB），未重复打包。请安装此前「小雪」推文已提供的霞鹜文楷，
+   或从官方仓库下载：https://github.com/lxgw/LxgwWenKai/releases
+   只需 Regular 与 Medium，不要用 Mono 裁切替代。
+
+3. Playfair Display Regular
+   文件：PlayfairDisplay-Regular.ttf
+   PostScript 名：PlayfairDisplay-Regular
+   用途：英文小标（the dining scene 等）与引言卡片英文
+   许可：SIL Open Font License（Google Fonts）
+   已附在本文件夹。
