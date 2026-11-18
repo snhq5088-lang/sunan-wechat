@@ -47,4 +47,4 @@
 | [anli-caidan-2026/使用说明.txt](anli-caidan-2026/使用说明.txt) | 打开方式和字体说明 |
 | [anli-caidan-2026/fonts/](anli-caidan-2026/fonts/) | 站酷快乐体 |
 
-用 Photoshop 打开 PSD 前，请先安装 [站酷快乐体](anli-caidan-2026/fonts/)、[马善政楷书](anli-shiji-2026/fonts/) 和 Noto Sans CJK SC Bold（思源黑体 Bold）。未安装时文字会错位。
+用 Photoshop 打开 PSD 前，请先安装 [重建字体](anli-caidan-2026/fonts/)（`Menu*-Reconstructed.ttf`），以及 Noto Sans CJK SC Bold、Noto Serif CJK SC Bold。未安装时文字会错位。部分标题的金色立体效果在改字后可能需要重新设置，详见 [使用说明](anli-caidan-2026/使用说明.txt)。
