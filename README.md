@@ -30,6 +30,9 @@
 | [anli-shiji-2026/psd/长图-食堂升级不只是换个装修-psd.zip](anli-shiji-2026/psd/长图-食堂升级不只是换个装修-psd.zip) | 同上 PSD 的压缩包 |
 | [anli-shiji-2026/使用说明.txt](anli-shiji-2026/使用说明.txt) | 打开方式和字体说明 |
 | [anli-shiji-2026/fonts/](anli-shiji-2026/fonts/) | 马善政楷书、Playfair Display |
+| [anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.jpg](anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.jpg) | 拼贴风 v2 已排版长图，1080×9654 |
+| [anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd](anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd) | 拼贴风 v2 可编辑 Photoshop 长图（标题、正文等均为文字图层） |
+| [anli-shiji-2026/拼贴风-v2/使用说明.txt](anli-shiji-2026/拼贴风-v2/使用说明.txt) | 拼贴风 v2 打开方式、可编辑范围和限制说明 |
 
 用 Photoshop 打开 PSD 前，请先安装 [马善政楷书](anli-shiji-2026/fonts/)、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)（Regular / Medium）和 [Playfair Display](anli-shiji-2026/fonts/)。未安装时文字会错位。
 
