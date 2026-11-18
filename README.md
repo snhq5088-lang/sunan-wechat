@@ -32,3 +32,19 @@
 | [anli-shiji-2026/fonts/](anli-shiji-2026/fonts/) | 马善政楷书、Playfair Display |
 
 用 Photoshop 打开 PSD 前，请先安装 [马善政楷书](anli-shiji-2026/fonts/)、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)（Regular / Medium）和 [Playfair Display](anli-shiji-2026/fonts/)。未安装时文字会错位。
+
+## 安理食堂菜单图（京江后勤）
+
+五张食堂档口菜单，画布 1920×1080，标题、菜名和价格均为可编辑文字图层。
+
+| 文件 | 说明 |
+| --- | --- |
+| [anli-caidan-2026/psd/01_麻辣烫.psd](anli-caidan-2026/psd/01_麻辣烫.psd) | 麻辣烫，荤素同价 1.88/一两 |
+| [anli-caidan-2026/psd/02_拾味砂锅.psd](anli-caidan-2026/psd/02_拾味砂锅.psd) | 拾味砂锅 |
+| [anli-caidan-2026/psd/03_北京烤鸭饭.psd](anli-caidan-2026/psd/03_北京烤鸭饭.psd) | 北京烤鸭饭 |
+| [anli-caidan-2026/psd/04_7.9铁板炒饭.psd](anli-caidan-2026/psd/04_7.9铁板炒饭.psd) | 7.9 铁板炒饭 |
+| [anli-caidan-2026/psd/05_老北京掉渣饼.psd](anli-caidan-2026/psd/05_老北京掉渣饼.psd) | 老北京掉渣饼 |
+| [anli-caidan-2026/使用说明.txt](anli-caidan-2026/使用说明.txt) | 打开方式和字体说明 |
+| [anli-caidan-2026/fonts/](anli-caidan-2026/fonts/) | 站酷快乐体 |
+
+用 Photoshop 打开 PSD 前，请先安装 [站酷快乐体](anli-caidan-2026/fonts/)、[马善政楷书](anli-shiji-2026/fonts/) 和 Noto Sans CJK SC Bold（思源黑体 Bold）。未安装时文字会错位。
