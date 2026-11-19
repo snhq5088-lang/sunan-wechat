@@ -1,0 +1,5 @@
+Ma Shan Zheng（马善政楷书）、LXGW WenKai Regular / Medium（霞鹜文楷）。
+字体名与 PSD Type 样式所写 PostScript 名均已核对。
+项目： https://github.com/google/fonts/tree/main/ofl/mashanzheng
+项目： https://github.com/lxgw/LxgwWenKai
+两项目均以 SIL Open Font License 分发；字体请安装后再编辑 PSD。

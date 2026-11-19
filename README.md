@@ -31,10 +31,16 @@
 | [anli-shiji-2026/使用说明.txt](anli-shiji-2026/使用说明.txt) | 打开方式和字体说明 |
 | [anli-shiji-2026/fonts/](anli-shiji-2026/fonts/) | 马善政楷书、Playfair Display |
 | [anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.jpg](anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.jpg) | 拼贴风 v2 已排版长图，1080×9654 |
-| [anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd](anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd) | 拼贴风 v2 可编辑 Photoshop 长图（标题、正文等均为文字图层） |
-| [anli-shiji-2026/拼贴风-v2/使用说明.txt](anli-shiji-2026/拼贴风-v2/使用说明.txt) | 拼贴风 v2 打开方式、可编辑范围和限制说明 |
+| [anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd](anli-shiji-2026/拼贴风-v2/长图-食堂升级不只是换个装修-拼贴风-v2.psd) | 拼贴风 v2 可编辑长图，91 个 Type 文字层；照片可独立移动或隐藏替换 |
+| [anli-shiji-2026/拼贴风-v2/预览.jpg](anli-shiji-2026/拼贴风-v2/预览.jpg) | 修正版 PSD 叠层预览 |
+| [anli-shiji-2026/拼贴风-v2/使用说明.txt](anli-shiji-2026/拼贴风-v2/使用说明.txt) | 拼贴风 v2 打开方式、可编辑范围、限制和验收说明 |
+| [anli-shiji-2026/拼贴风-v2/文案.md](anli-shiji-2026/拼贴风-v2/文案.md) | 拼贴风 v2 校对正文 |
+| [anli-shiji-2026/拼贴风-v2/fonts/](anli-shiji-2026/拼贴风-v2/fonts/) | 拼贴风 v2 字体：马善政楷书、霞鹜文楷 Regular / Medium |
+| [anli-shiji-2026/拼贴风-v2/qa/photopea/](anli-shiji-2026/拼贴风-v2/qa/photopea/) | Photopea 实际打开验收截图（加载字体、图层显隐） |
 
-用 Photoshop 打开 PSD 前，请先安装 [马善政楷书](anli-shiji-2026/fonts/)、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)（Regular / Medium）和 [Playfair Display](anli-shiji-2026/fonts/)。未安装时文字会错位。
+打开拼贴风 v2 PSD 前，请先安装 [本目录字体](anli-shiji-2026/拼贴风-v2/fonts/)：马善政楷书，以及霞鹜文楷 Regular / Medium。未安装时文字会错位。正文按行分层，可逐行改字，但不会自动流排。照片为独立图层，可移动、隐藏，也可用隐藏的原图撕边层替换。胶带、黄刷、线稿等部分装饰仍是像素。标题字体与生成图略有差异。该文件已在 Photopea 加载上述字体后实际打开，并做图层显隐检查；未在原生 Adobe Photoshop 中测试。
+
+上一版 v5 长图打开前，请先安装 [马善政楷书](anli-shiji-2026/fonts/)、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)（Regular / Medium）和 [Playfair Display](anli-shiji-2026/fonts/)。未安装时文字会错位。
 
 ## 安理食堂菜单图（京江后勤）
 
