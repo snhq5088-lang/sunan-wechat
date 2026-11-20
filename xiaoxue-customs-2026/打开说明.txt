@@ -1,0 +1,22 @@
+苏南后勤集团 · 小雪节气长图 可编辑 PSD
+
+文件：长图-苏南后勤集团-小雪节气.psd
+尺寸：1080×5630，72 ppi
+图层：文字（24 个可编辑文字图层）→ 书法小雪 → 装饰 → 插画 → 纸色背景
+
+打开前请先安装这些字体，否则 Photoshop 会替换字体，位置和字重会对不上：
+
+1. 霞鹜文楷 Light / Regular / Medium
+   Photoshop 识别名：LXGWWenKai-Light、LXGWWenKai-Regular、LXGWWenKai-Medium
+   （与上一篇小雪推文 PSD 为同一套字体）
+
+2. 思源宋体 Bold，或 Noto Serif CJK SC Bold
+   用于「小雪由来」「小雪三候」「部分地区的传统习俗」和结尾祝福句
+   Photoshop 识别名：NotoSerifCJKsc-Bold
+
+3. Inria Sans Light
+   用于封面英文 MINOR SNOW
+   Photoshop 识别名：InriaSans-Light
+   本目录 fonts/ 里附有此字体。
+
+安装字体后，即可直接改文字内容。第一次打开时，Photoshop 可能按文本引擎重绘文字，与预览像素会有细微抗锯齿差别，这是正常的。
