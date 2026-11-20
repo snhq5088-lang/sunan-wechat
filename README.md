@@ -57,3 +57,11 @@
 | [anli-caidan-2026/fonts/](anli-caidan-2026/fonts/) | 站酷快乐体 |
 
 用 Photoshop 打开 PSD 前，请先安装 [重建字体](anli-caidan-2026/fonts/)（`Menu*-Reconstructed.ttf`），以及 Noto Sans CJK SC Bold、Noto Serif CJK SC Bold。未安装时文字会错位。部分标题的金色立体效果在改字后可能需要重新设置，详见 [使用说明](anli-caidan-2026/使用说明.txt)。
+
+## 京江物业企业画册
+
+前五页可编辑 PowerPoint，文件内容未改。
+
+| 文件 | 说明 |
+| --- | --- |
+| [画册/京江物业企业画册_前五页_可编辑.pptx](画册/京江物业企业画册_前五页_可编辑.pptx) | 可编辑 PPTX |
